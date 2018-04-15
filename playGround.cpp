@@ -21,6 +21,7 @@ HRESULT playGround::init()
 	SCENEMANAGER->changeScene("ÅÊÅ©¾À");
 
 	int test = 1;
+	int test2 = 2;
 
 	return S_OK;
 }
