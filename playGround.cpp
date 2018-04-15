@@ -20,6 +20,8 @@ HRESULT playGround::init()
 	SCENEMANAGER->addScene("ÅÊÅ©¾À", new aStarScene);
 	SCENEMANAGER->changeScene("ÅÊÅ©¾À");
 
+	int test = 1;
+
 	return S_OK;
 }
 
