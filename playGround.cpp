@@ -23,6 +23,7 @@ HRESULT playGround::init()
 	int test = 1;
 	int test2 = 2;
 	int test2_2 = 2.2;
+	int a = asdf;
 
 	return S_OK;
 }
